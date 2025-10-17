@@ -1,7 +1,7 @@
 # MegaEth ABIs
-
+0x6080604052600080fdfea264697066735822122095fed2c557b62b9f55f8b3822b0bdc6d15fd93abb95f37503d3f788da6cbb30064736f6c63430008000033
 This repository contains Application Binary Interfaces (ABIs) for MegaEth smart contracts.
-
+0x48ADB5C7DB4739B82295c0A8283ff1B1C2930810
 ## Adding Your ABI
 
 To add your contract ABI to this repository:
