@@ -59,3 +59,4 @@ The validation ensures:
 - Contract index is consistent with files
 - No duplicate addresses
 - All addresses have valid format
+- g
